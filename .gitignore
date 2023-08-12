@@ -4,6 +4,7 @@ es/
 .next/
 node_modules/
 .DS_Store
+.idea
 
 # debug
 npm-debug.log*
